@@ -1,6 +1,10 @@
+var num=11;
 function Mostrar()
 {
-	alert('iteración while');
-
+	while(num>1)
+	{
+		num=num-1
+		alert(num)
+	}
 
 }//FIN DE LA FUNCIÓN
