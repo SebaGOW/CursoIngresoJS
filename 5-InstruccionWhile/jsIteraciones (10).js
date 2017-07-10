@@ -8,7 +8,7 @@ function Mostrar()
 
 	while(respuesta!="no")
 	{
-		
+	
 	
 	}
 
